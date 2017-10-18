@@ -1,0 +1,19 @@
+/*Utilizando la propiedad Box-sizing para indicas un solo tamaño de ancho y largo
+al contenido de todos los elementos Div*/
+*{
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  height: 200px;
+  padding: 2px;
+}
+.yellow {
+  background-color:orange;
+}
+.black{
+  background-color: black;
+  color: white;
+}
+.yellow1{
+  background-color: orange;
+  font-family: inherit;
+}
